@@ -1,4 +1,4 @@
-# Inventory Management Program 🛒
+# Inventory Management Program 
 
 # Step 1: Create the Inventory
 inventory = {}
